@@ -49,6 +49,10 @@ font-size: 12px;
 color: white;
 }
 
+.line{
+  width: 90%;
+}
+
 .icon.bg{
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(78, 73, 73, 0.2) 100%);
 width: 90px;
@@ -70,7 +74,7 @@ padding: 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 368px;
+  width: 90%;
 height: 35px;
 }
 
@@ -202,9 +206,9 @@ color: white;
 .energy{
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 228px;
+  justify-content: space-between;
   margin-top: 62px;
+  width: 95%;
 }
 
 .foot p{

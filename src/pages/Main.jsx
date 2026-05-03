@@ -52,7 +52,7 @@ useEffect(() => {
        <div className="second">
        <Cards/>
         <h1 className='coins'><img src={coin}alt="" />{coins}</h1>
-        <img src={line} alt="" />
+        <img className='line' src={line} alt="" />
         <button onClick={clicker} className='btn'>
           <img className='round' src={round} alt="" />
           <img className='humster' src={humster} alt="" />

@@ -76,7 +76,7 @@ height: 35px;
 
 
 .card{
-  width: 117px;
+  width: 29vw;
 height: 50px;
 border-radius: 10px;
 padding-top: 8px;
@@ -337,7 +337,7 @@ padding: 14px;
 }
 
 .square{
-  width: 117px;
+  width: 29vw;
 height: 109px;
 border-radius: 25px;
   border: 2px solid transparent;

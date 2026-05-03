@@ -50,7 +50,7 @@ color: white;
 }
 
 .line{
-  width: 90%;
+  width: 88%;
   max-height: 60px;
 }
 
@@ -75,13 +75,13 @@ padding: 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 90%;
+  width: 88%;
 height: 35px;
 }
 
 
 .card{
-  width: 29vw;
+  width: 28vw;
 height: 50px;
 border-radius: 10px;
 padding-top: 8px;
